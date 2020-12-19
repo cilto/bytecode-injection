@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: instrument.MyAgent
+Class-Path: instrument/lib/javassist.jar
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
